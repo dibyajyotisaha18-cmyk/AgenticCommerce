@@ -1,0 +1,6 @@
+timestamp,sku,product_name,current_stock,daily_sales_velocity,competitor_average_price,current_price
+2026-07-12T00:00:00Z,SKU-1001,Wireless Earbuds,50,5.2,45.99,49.99
+2026-07-12T00:00:00Z,SKU-1002,Smart Watch,12,3.1,120.00,129.99
+2026-07-12T00:00:00Z,SKU-1003,Mechanical Keyboard,85,1.5,89.50,85.00
+2026-07-12T00:00:00Z,SKU-1004,Gaming Mouse,5,2.0,55.00,59.99
+2026-07-12T00:00:00Z,SKU-1005,USB-C Hub,200,10.0,22.99,25.00

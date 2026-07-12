@@ -1,0 +1,10 @@
+crewai
+langchain-openai
+langchain-groq
+scrapy
+pandas
+python-dotenv
+sendgrid
+requests
+fastapi
+uvicorn
